@@ -1,0 +1,2 @@
+environment     = "dev"
+raw_bucket_name = "shop-events-dev-raw-123456789012"
